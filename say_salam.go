@@ -1,4 +1,4 @@
-package go_say_hello
+package go_say_salam
 
 func SaySalam() string {
 	return "Assalaamu'alaikum"
